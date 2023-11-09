@@ -1,69 +1,53 @@
 {
-  "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
-  },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": [
-        "Relativity"
-      ]
+      "name": "The Brain Cognition and Brain Disease Institute, Chinese Academy of Sciences",
+      "position": "Research Assistant",
+      "url": "",
+      "startDate": "2023-04",
+      "endDate": "Present",
+      "summary": "Leading pretraining of foundation models for neuronal circuit analysis and developing a deep learning pipeline for stitching 3D brain slices."
+    },
+    {
+      "name": "Natural Language Processing Lab, Tsinghua University",
+      "position": "Research Assistant",
+      "url": "",
+      "startDate": "2022-06",
+      "endDate": "Present",
+      "summary": "Contributed to large language model research, including the development of an open book QA system and UltraLM, BMTools, and GPT-World."
+    },
+    {
+      "name": "Zealen Technology",
+      "position": "Research Intern",
+      "url": "",
+      "startDate": "2022-05",
+      "endDate": "2022-08",
+      "summary": "Led training of Vision Transformer on wind power prediction task, achieving competitive performance with industry standards."
+    },
+    {
+      "name": "Shenzhen Research Institute of Big Data",
+      "position": "Software Developer",
+      "url": "",
+      "startDate": "2021-01",
+      "endDate": "2023-03",
+      "summary": "Participated in the full-stack development of various projects including a funding approval system, a campus heatmap service, and a fire probability warning system."
     }
   ],
-  "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "",
-      "courses": [
-        "Theory of Relativity"
-      ]
+      "institution": "The Chinese University of Hong Kong, Shenzhen",
+      "url": "",
+      "area": "Statistics, Data Science Stream",
+      "studyType": "Bachelor of Science",
+      "startDate": "2019-09",
+      "endDate": "2024-05",
+      "courses": []
     }
   ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [],
-  "publications": [],
   "skills": [],
   "languages": [
     {
-      "language": "German",
+      "language": "Chinese",
       "fluency": "Native speaker"
     },
     {
@@ -71,7 +55,5 @@
       "fluency": "Fluent"
     }
   ],
-  "interests": [],
-  "references": [],
   "projects": []
 }
