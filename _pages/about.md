@@ -26,11 +26,11 @@ I am honored to serve as a research assistant at both [THUNLP@THU](https://nlp.c
 Upon graduation, I intend to pursue master degree, and then do some research in industry. I believe that more and more scientific groundbreaking discoveries require collaborative research of a large group of collaborators.
 
 
-# About my work
+**About my work**
 
-## SIAT
+**ICBI**
 
-At SIAT, currently, I'm immersed in the realm of brain slice semantic stitching. Based on VISOR fast imaging technology developed by ICBI, we can rapidly obtain images of whole mouse / macaque / human brains.
+At ICBI@SIAT, currently, I'm immersed in the realm of brain slice semantic stitching. Based on VISOR fast imaging technology developed by ICBI, we can rapidly obtain images of whole mouse / macaque / human brains.
 
 - I pretrained a ViT encoder & decoder (through Masked Autoencoder) to derive semantic representations from brain slices & extrapolate brain slices to construct common areas so as to assist interslice stitching.
   
@@ -38,21 +38,21 @@ At SIAT, currently, I'm immersed in the realm of brain slice semantic stitching.
 
 - The ultimate aim is to extracting comprehensive high-resolution brain circuits to craft Large Language Models, based on VISOR and brain stitching techniques.
 
-## THUNLP
+**THUNLP**
 
-At THUNLP, my pursuit centers on enhancing the mathematical reasoning prowess of large language models via incremental pretraining.
+At THUNLP@THU, my pursuit centers on enhancing the mathematical reasoning prowess of large language models via incremental pretraining.
 
 - Prior to this, I contributed to the creation of several question answering and chat systems, including [UltraLM](https://github.com/thunlp/UltraChat).
 
 - My contributions also extend to the development of [BMTools](https://github.com/OpenBMB/BMTools) & [GPT-World](https://github.com/ShengdingHu/GPT-World), where LLMs are treated as agents within bespoke environments.
 
 
-## Zealen Technology (Startup)
+**Zealen Technology (Startup)**
 
 I architected a suite of Swin Transformer-based wind power forecast models. These models, powered solely by GFS satellite data, rival the performance of MoE models that harness 6 signal sources.
 
 
-# Daydreaming
+**Daydreaming**
 
 During my Cognitive Psychology course at CUHK(Shenzhen)—for which I received a grade of C+ — I was first introduced to the concept of *perception*. It's a fascinating property found in myriad entities. For instance, after pretraining, a Vision Transformer can "perceive" a *cat* within its embeddings. The property also exists in many creatures (insects, cats, dogs, human).
 
@@ -62,7 +62,7 @@ On a parallel note, imagine using a large language model paired with vision or e
 
 I am eager to collaborate with peers to explore these intriguing questions.
 
-# My Research Interest
+**My Research Interest**
 
 In the following years, I would like to do some research on:
 
