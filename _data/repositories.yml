@@ -1,12 +1,7 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - bokesyo
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - bokesyo/CSC4005_2022Fall_Demo
+  - bokesyo/BMTools
+  - bokesyo/GPT-World
