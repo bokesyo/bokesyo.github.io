@@ -13,7 +13,7 @@ Undergraduate Student Teaching Fellow, 2022.9 - 2022.12
 
 **Github Repo: [CSC4005_2022Fall_Demo](https://github.com/bokesyo/CSC4005_2022Fall_Demo)**
 
-**Tutorial slices**
+**Tutorial Slides**
 
 - [Tutorial 1: Virtual Machine Environment & Compiler](/assets/teaching/CSC4005/CSC4005_Tutorial1.pdf)
 
