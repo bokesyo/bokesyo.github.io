@@ -1,4 +1,4 @@
 User-agent: *
-Disallow:
+Disallow: /assets/img/
 
 Sitemap: https://bokesyo.github.io/sitemap.xml
