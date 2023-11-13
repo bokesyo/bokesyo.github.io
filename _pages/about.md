@@ -19,11 +19,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am currently in my 5th year at CUHK(Shenzhen), I spent some extra time exploring some intriguing things like neuroscience and language models. My passion lies in understanding large language models, their reasoning capabilities, and the ties between learning in neural networks and biological brain. Additionally, I feel it cool to investigate Chinese dialects.
+I am currently in my 5th year at CUHK(Shenzhen), I spent some extra time exploring some intriguing things like neuroscience and language models. My passion lies in understanding large language models, their reasoning capabilities, and the ties between learning in neural networks and biological brain. Additionally, I feel it cool to investigate Chinese dialects. I am honored to serve as a research assistant at THUNLP@THU and ICBI@SIAT. Upon graduation, I intend to pursue master degree, and then do some large scale cooperative research in industry. [Google Scholar](https://scholar.google.com/citations?user=oDBo3a0AAAAJ&hl=en) / [Github](https://github.com/bokesyo)
 
-I am honored to serve as a research assistant at both [THUNLP@THU](https://nlp.csai.tsinghua.edu.cn/) and [ICBI@SIAT](https://icbi.siat.ac.cn/). My goal is to pioneer advancements in the interdisciplinary realm of neuroscience and large language models. [Google Scholar](https://scholar.google.com/citations?user=oDBo3a0AAAAJ&hl=en) / [Github](https://github.com/bokesyo).
-
-Upon graduation, I intend to pursue master degree, and then do some research in industry. I believe that more and more scientific groundbreaking discoveries require collaborative research of a large group of collaborators.
 
 ## recent work
 
@@ -52,7 +49,7 @@ At [THUNLP@THU](https://nlp.csai.tsinghua.edu.cn/), my pursuit centers on enhanc
 I architected a suite of Swin Transformer-based wind power forecast models. These models, powered solely by GFS satellite data, rival the performance of MoE models that harness 6 signal sources.
 
 
-## my daydreaming
+## my research interest
 
 During my Cognitive Psychology course at CUHK(Shenzhen)—for which I received a grade of C+ — I was first introduced to the concept of *perception*. It's a fascinating property found in myriad entities. For instance, after pretraining, a Vision Transformer can "perceive" a *cat* within its embeddings. The property also exists in many creatures (insects, cats, dogs, human).
 
@@ -61,8 +58,6 @@ I frequently muse about the essence of *human consciousness*—potentially defin
 On a parallel note, imagine using a large language model paired with vision or environmental encoders and external devices. If this model had an extensive context capacity (like 1,000,000+ tokens) to retain daily information, and if trained to embed these memories into its parameters, what could be the possibilities?
 
 I am eager to collaborate with peers to explore these intriguing questions.
-
-## my research interest
 
 In the following years, I would like to do some research on:
 
