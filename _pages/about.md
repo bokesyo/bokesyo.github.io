@@ -15,7 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an undergrad student at CUHK(Shenzhen), this is my 5th year here. I spent some extra time exploring some intriguing things like neuroscience and language models. My passion lies in understanding large language models, their reasoning capabilities, and the ties between learning in neural networks and biological brain. Additionally, I feel it cool to investigate Chinese dialects. I am honored to serve as a research assistant at THUNLP@THU and ICBI@SIAT. Upon graduation, I intend to pursue master degree, and then do some large scale cooperative research in industry. [Google Scholar](https://scholar.google.com/citations?user=oDBo3a0AAAAJ&hl=en) / [Github](https://github.com/bokesyo)
+I am an undergrad student at CUHK(Shenzhen), this is my 5th year here. I spent some extra time exploring some intriguing things like neuroscience and language models. My passion lies in understanding large language models, their reasoning capabilities, and the ties between learning in neural networks and biological brain. Additionally, I feel it cool to investigate Chinese dialects. I am honored to serve as a research assistant at THUNLP@THU and ICBI@SIAT. Upon graduation, I intend to pursue master degree, and then do some large scale cooperative research in industry.
 
 
 ## recent work
