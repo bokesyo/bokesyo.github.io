@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.cuhk.edu.cn/en/about-us'>The Chinese University of Hong Kong, Shenzhen</a>. 2001 Longxiang Boulevard, Longgang District, Shenzhen.
+subtitle: <a href='https://www.cuhk.edu.cn/en/about-us'>The Chinese University of Hong Kong, Shenzhen</a>. 
 
 profile:
   align: right
@@ -19,18 +19,17 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am currently in my 5th year at CUHK-Shenzhen, I spent some extra time exploring some intriguing things like neuroscience and language models. My passion lies in understanding large language models, their reasoning capabilities, and the ties between learning in neural networks and biological brain. Additionally, I feel it cool to investigate Chinese dialects.
+I am currently in my 5th year at CUHK(Shenzhen), I spent some extra time exploring some intriguing things like neuroscience and language models. My passion lies in understanding large language models, their reasoning capabilities, and the ties between learning in neural networks and biological brain. Additionally, I feel it cool to investigate Chinese dialects.
 
 I am honored to serve as a research assistant at both [THUNLP@THU](https://nlp.csai.tsinghua.edu.cn/) and [ICBI@SIAT](https://icbi.siat.ac.cn/). My goal is to pioneer advancements in the interdisciplinary realm of neuroscience and large language models. [Google Scholar](https://scholar.google.com/citations?user=oDBo3a0AAAAJ&hl=en) / [Github](https://github.com/bokesyo).
 
 Upon graduation, I intend to pursue master degree, and then do some research in industry. I believe that more and more scientific groundbreaking discoveries require collaborative research of a large group of collaborators.
 
+## Recent Work
 
-**About my work**
+**ICBI@SIAT BCBDI**
 
-**ICBI**
-
-At ICBI@SIAT, currently, I'm immersed in the realm of brain slice semantic stitching. Based on VISOR fast imaging technology developed by ICBI, we can rapidly obtain images of whole mouse / macaque / human brains.
+At [ICBI@SIAT BCBDI](http://bcbdi.siat.ac.cn/), currently, I'm immersed in the realm of brain slice semantic stitching. Based on VISOR fast imaging technology developed by ICBI, we can rapidly obtain images of whole mouse / macaque / human brains.
 
 - I pretrained a ViT encoder & decoder (through Masked Autoencoder) to derive semantic representations from brain slices & extrapolate brain slices to construct common areas so as to assist interslice stitching.
   
@@ -40,9 +39,9 @@ At ICBI@SIAT, currently, I'm immersed in the realm of brain slice semantic stitc
 
 **THUNLP**
 
-At THUNLP@THU, my pursuit centers on enhancing the mathematical reasoning prowess of large language models via incremental pretraining.
+At [THUNLP@THU](https://nlp.csai.tsinghua.edu.cn/), my pursuit centers on enhancing the mathematical reasoning capability of large language models.
 
-- Prior to this, I contributed to the creation of several question answering and chat systems, including [UltraLM](https://github.com/thunlp/UltraChat).
+- Prior to this, I contributed to the creation of several question answering and chat systems, including BMQA (Big Model for Question Answering, June, 2022) & [UltraLM](https://github.com/thunlp/UltraChat).
 
 - My contributions also extend to the development of [BMTools](https://github.com/OpenBMB/BMTools) & [GPT-World](https://github.com/ShengdingHu/GPT-World), where LLMs are treated as agents within bespoke environments.
 
@@ -52,7 +51,7 @@ At THUNLP@THU, my pursuit centers on enhancing the mathematical reasoning prowes
 I architected a suite of Swin Transformer-based wind power forecast models. These models, powered solely by GFS satellite data, rival the performance of MoE models that harness 6 signal sources.
 
 
-**Daydreaming**
+## Daydreaming
 
 During my Cognitive Psychology course at CUHK(Shenzhen)—for which I received a grade of C+ — I was first introduced to the concept of *perception*. It's a fascinating property found in myriad entities. For instance, after pretraining, a Vision Transformer can "perceive" a *cat* within its embeddings. The property also exists in many creatures (insects, cats, dogs, human).
 
@@ -62,7 +61,7 @@ On a parallel note, imagine using a large language model paired with vision or e
 
 I am eager to collaborate with peers to explore these intriguing questions.
 
-**My Research Interest**
+## My Research Interest
 
 In the following years, I would like to do some research on:
 
