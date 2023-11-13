@@ -6,6 +6,7 @@ description: an example of a blog post with jupyter notebook
 tags: formatting jupyter
 categories: sample-posts
 giscus_comments: true
+published: false
 related_posts: false
 ---
 
