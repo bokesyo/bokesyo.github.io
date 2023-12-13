@@ -25,7 +25,7 @@ nav_order: 4
 
 <figure>
   <img width="60%" max-width="600px" src="/assets/design/xj.jpeg"/>
-  <figcaption>课程作业 (2020)</figcaption>
+  <figcaption>作业 (2020)</figcaption>
 </figure>
 
 <figure>
@@ -40,17 +40,23 @@ nav_order: 4
 
 <figure>
   <img width="60%" max-width="600px" src="/assets/design/dylan-2020.jpeg"/>
-  <figcaption>涤纶诗社海报 with 龙虾长者 (2020)</figcaption>
-</figure>
-
-<figure>
-  <img width="60%" max-width="600px" src="/assets/design/dylan-2020.jpeg"/>
-  <figcaption>涤纶诗社海报 with 龙虾长者 (2020)</figcaption>
+  <figcaption>涤纶招新 with 龙虾长者 (2020)</figcaption>
 </figure>
 
 
 <figure>
   <img width="60%" max-width="600px" src="/assets/design/shutopia-dsh.jpg"/>
-  <figcaption>Shutopia X Parklife读书会海报 (2020)</figcaption>
+  <figcaption>Shutopia X Parklife (2020)</figcaption>
 </figure>
+
+<figure>
+  <img width="60%" max-width="600px" src="/assets/design/shutopia-goe.jpeg"/>
+  <figcaption>Shutopia 无意义大赛 (2021)</figcaption>
+</figure>
+
+<figure>
+  <img width="60%" max-width="600px" src="/assets/design/shutopia-goe.jpeg"/>
+  <figcaption>Shutopia 无意义大赛 (2021)</figcaption>
+</figure>
+
 
