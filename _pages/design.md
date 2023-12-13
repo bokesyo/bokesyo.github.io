@@ -14,8 +14,8 @@ nav_order: 4
 </figure>
 
 <figure>
-  <img width="60%" max-width="600px" src="/assets/design/fcnd-4.jpg"/>
-  <figcaption>第4届快速眼动诗歌奖获奖证书 with 痰盂林 (2021)</figcaption>
+  <a href="https://feiwu.site"><img width="60%" max-width="600px" src="/assets/design/transcript.jpg"/></a>
+  <figcaption>CUHKSZ成绩单改良计划 with 龙虾长者 (2021) <a href="https://feiwu.site">Link</a> </figcaption>
 </figure>
 
 <figure>
@@ -29,12 +29,17 @@ nav_order: 4
 </figure>
 
 <figure>
-  <img width="60%" max-width="600px" src="/assets/design/board-3.jpeg"/>
+  <img width="60%" max-width="600px" src="/assets/design/fcnd-4.jpg"/>
+  <figcaption>第4届快速眼动诗歌奖获奖证书 with 痰盂林 (2021)</figcaption>
+</figure>
+
+<figure>
+  <img width="100%" max-width="1000px" src="/assets/design/board-3.jpeg"/>
   <figcaption>CUHKSZ社团文化节展板3 (2020)</figcaption>
 </figure>
 
 <figure>
-  <img width="60%" max-width="600px" src="/assets/design/board-2.jpeg"/>
+  <img width="100%" max-width="1000px" src="/assets/design/board-2.jpeg"/>
   <figcaption>CUHKSZ社团文化节展板2 (2020)</figcaption>
 </figure>
 
@@ -55,8 +60,12 @@ nav_order: 4
 </figure>
 
 <figure>
-  <img width="60%" max-width="600px" src="/assets/design/shutopia-goe.jpeg"/>
-  <figcaption>Shutopia 无意义大赛 (2021)</figcaption>
+  <img width="60%" max-width="600px" src="/assets/design/swb-2.jpeg"/>
+  <figcaption>涤纶分享会 (2020)</figcaption>
 </figure>
 
+<figure>
+  <img width="60%" max-width="600px" src="/assets/design/regression.jpeg"/>
+  <figcaption>回归 (2021)</figcaption>
+</figure>
 
