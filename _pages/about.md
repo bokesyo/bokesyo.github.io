@@ -22,13 +22,13 @@ I am an undergrad student at CUHK(Shenzhen), this is my 5th year here. I spent s
 
 **ICBI@SIAT BCBDI**
 
-At [ICBI@SIAT BCBDI](http://bcbdi.siat.ac.cn/), I'm immersed in the realm of brain slice semantic stitching. Based on VISOR fast imaging technology developed by ICBI, we can rapidly obtain images of whole mouse / macaque / human brains.
+At [ICBI@SIAT BCBDI](http://bcbdi.siat.ac.cn/), I'm immersed in the realm of brain slice semantic stitching. Based on VISOR2 fast imaging technology developed by ICBI, we can rapidly obtain images of whole mouse / macaque / human brains.
 
-- I pretrained a ViT encoder & decoder (through Masked Autoencoder) to derive semantic representations from brain slices & extrapolate brain slices to construct common areas so as to assist interslice stitching.
+- Pretrained a ViT encoder & decoder (through Masked Autoencoder).
   
-- Subsequently, based on pretrained Masked Autoencoder, I established a pipeline for semantically stitching brain slices.
+- Aligned pretrained Masked Autoencoder for trustfully stitching brain slices (brain reconstruction).
 
-- The ultimate aim is to extracting comprehensive high-resolution brain circuits to craft Large Language Models, based on VISOR and brain stitching techniques.
+- The ultimate aim is to extracting comprehensive high-resolution brain circuits to craft Large Language Models, based on VISOR2 and brain stitching techniques.
 
 
 **THUNLP**
