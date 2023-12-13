@@ -2,27 +2,27 @@
   "work": [
     {
       "name": "The Brain Cognition and Brain Disease Institute, Chinese Academy of Sciences",
-      "position": "Research Assistant",
+      "position": "Research Intern",
       "url": "",
       "startDate": "2023-4",
       "endDate": "",
-      "summary": "Leading pretraining of foundation models for neuronal circuit analysis and developing a deep learning pipeline for stitching 3D brain slices."
+      "summary": "deep learning for brain reconstruction."
     },
     {
       "name": "Natural Language Processing Lab, Tsinghua University",
-      "position": "Research Assistant",
+      "position": "Research Intern",
       "url": "",
       "startDate": "2022-6",
       "endDate": "",
-      "summary": "Contributed to large language model research, including the development of an open book QA system and UltraLM, BMTools, and GPT-World."
+      "summary": "BMQA, UltraLM, BMTools, and GPT-World."
     },
     {
-      "name": "Zealen Technology",
+      "name": "Zealen Technology (Startup)",
       "position": "Research Intern",
       "url": "",
       "startDate": "2022-5",
       "endDate": "2022-8",
-      "summary": "Led training of Vision Transformer on wind power prediction task, achieving competitive performance with industry standards."
+      "summary": "lead Vision Transformer on wind power prediction"
     },
     {
       "name": "Shenzhen Research Institute of Big Data",
@@ -30,7 +30,7 @@
       "url": "",
       "startDate": "2021-1",
       "endDate": "2023-3",
-      "summary": "Participated in the full-stack development of various projects including a funding approval system, a campus heatmap service, and a fire probability warning system."
+      "summary": "full-stack development of various projects including a funding approval system, a campus heatmap service, and a fire probability warning system."
     }
   ],
   "education": [
@@ -41,7 +41,7 @@
       "studyType": "Bachelor of Science",
       "startDate": "2019-9",
       "endDate": "2024-5",
-      "courses": []
+      "courses": ["DDA6309 Probabilistic Graphical Models"]
     }
   ],
   "skills": [],
