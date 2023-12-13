@@ -6,16 +6,10 @@ nav: true
 nav_order: 4
 ---
 
-<img width="60%" max-width="600px" src="/assets/design/fcnd-2.png"/>
-<!-- <img width="60%" max-width="600px" src="/assets/design/fcnd-2.png"/>
-<img width="60%" max-width="600px" src="/assets/design/fcnd-2.png"/> -->
-
 
 
 <figure>
-  <img
-    src="/assets/design/fcnd-2.png"
-    alt=""
-  />
-  <figcaption>Fcnd with lxzz and hh</figcaption>
+  <img width="60%" max-width="600px" src="/assets/design/fcnd-2.png"/>
+  <figcaption>第二届快速眼动诗歌奖获奖证书 with 龙虾长者 & 槲槲</figcaption>
 </figure>
+
