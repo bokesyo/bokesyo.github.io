@@ -10,6 +10,47 @@ nav_order: 4
 
 <figure>
   <img width="60%" max-width="600px" src="/assets/design/fcnd-2.png"/>
-  <figcaption>第二届快速眼动诗歌奖获奖证书 with 龙虾长者 & 槲槲</figcaption>
+  <figcaption>第2届快速眼动诗歌奖获奖证书 with 龙虾长者 & 槲槲 (2020)</figcaption>
+</figure>
+
+<figure>
+  <img width="60%" max-width="600px" src="/assets/design/fcnd-4.jpg"/>
+  <figcaption>第4届快速眼动诗歌奖获奖证书 with 痰盂林 (2021)</figcaption>
+</figure>
+
+<figure>
+  <img width="60%" max-width="600px" src="/assets/design/fcnd-1.jpg"/>
+  <figcaption>第1届快速眼动诗歌奖获奖证书 with 龙虾长者 (2020)</figcaption>
+</figure>
+
+<figure>
+  <img width="60%" max-width="600px" src="/assets/design/xj.jpeg"/>
+  <figcaption>课程作业 (2020)</figcaption>
+</figure>
+
+<figure>
+  <img width="60%" max-width="600px" src="/assets/design/board-3.jpeg"/>
+  <figcaption>CUHKSZ社团文化节展板3 (2020)</figcaption>
+</figure>
+
+<figure>
+  <img width="60%" max-width="600px" src="/assets/design/board-2.jpeg"/>
+  <figcaption>CUHKSZ社团文化节展板2 (2020)</figcaption>
+</figure>
+
+<figure>
+  <img width="60%" max-width="600px" src="/assets/design/dylan-2020.jpeg"/>
+  <figcaption>涤纶诗社海报 with 龙虾长者 (2020)</figcaption>
+</figure>
+
+<figure>
+  <img width="60%" max-width="600px" src="/assets/design/dylan-2020.jpeg"/>
+  <figcaption>涤纶诗社海报 with 龙虾长者 (2020)</figcaption>
+</figure>
+
+
+<figure>
+  <img width="60%" max-width="600px" src="/assets/design/shutopia-dsh.jpg"/>
+  <figcaption>Shutopia X Parklife读书会海报 (2020)</figcaption>
 </figure>
 
