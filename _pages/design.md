@@ -44,7 +44,7 @@ nav_order: 4
 </figure>
 
 <figure>
-  <img width="60%" max-width="600px" src="/assets/design/shutopia-dsh.jpg"/>
+  <img width="60%" max-width="600px" src="/assets/design/shutopia-201902.jpeg"/>
   <figcaption>Shutopia 主题月II (2019)</figcaption>
 </figure>
 
