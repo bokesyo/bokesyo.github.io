@@ -34,12 +34,6 @@ nav_order: 4
 </figure>
 
 <figure>
-  <a href="https://feiwu.site"><img width="60%" max-width="600px" src="/assets/design/transcript.jpg"/></a>
-  <figcaption>CUHKSZ成绩单改良计划 with 龙虾长者 (2021) <a href="https://feiwu.site">Link</a> </figcaption>
-</figure>
-
-
-<figure>
   <img width="60%" max-width="600px" src="/assets/design/shutopia-dsh.jpg"/>
   <figcaption>Shutopia X Parklife (2020)</figcaption>
 </figure>
@@ -89,6 +83,10 @@ nav_order: 4
 </figure>
 
 
+<figure>
+  <a href="https://feiwu.site"><img width="60%" max-width="600px" src="/assets/design/transcript.jpg"/></a>
+  <figcaption>CUHKSZ成绩单改良计划 with 龙虾长者 (2021) <a href="https://feiwu.site">Link</a> </figcaption>
+</figure>
 
 
 
