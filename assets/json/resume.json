@@ -6,7 +6,7 @@
       "url": "",
       "startDate": "2023-4",
       "endDate": "",
-      "summary": "deep learning for brain reconstruction."
+      "summary": ""
     },
     {
       "name": "Natural Language Processing Lab, Tsinghua University",
@@ -14,7 +14,7 @@
       "url": "",
       "startDate": "2022-6",
       "endDate": "",
-      "summary": "BMQA, UltraLM, BMTools, and GPT-World."
+      "summary": ""
     },
     {
       "name": "Zealen Technology (Startup)",
@@ -22,7 +22,7 @@
       "url": "",
       "startDate": "2022-5",
       "endDate": "2022-8",
-      "summary": "lead Vision Transformer on wind power prediction"
+      "summary": ""
     },
     {
       "name": "Shenzhen Research Institute of Big Data",
@@ -30,7 +30,7 @@
       "url": "",
       "startDate": "2021-1",
       "endDate": "2023-3",
-      "summary": "full-stack development of various projects including a funding approval system, a campus heatmap service, and a fire probability warning system."
+      "summary": ""
     }
   ],
   "education": [
@@ -41,7 +41,7 @@
       "studyType": "Bachelor of Science",
       "startDate": "2019-9",
       "endDate": "2024-5",
-      "courses": ["DDA6309 Probabilistic Graphical Models"]
+      "courses": []
     }
   ],
   "skills": [],
@@ -49,6 +49,10 @@
     {
       "language": "Chinese",
       "fluency": "Native speaker"
+    },
+    {
+      "language": "Medieval Chinese",
+      "fluency": "A little"
     },
     {
       "language": "English",
