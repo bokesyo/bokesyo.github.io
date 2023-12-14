@@ -9,13 +9,13 @@ nav_order: 2
 
 ### CSC4005 Parallel Programming, CUHK(Shenzhen)
 
-**Undergraduate Student Teaching Fellow, 2022.9 - 2022.12**
+*Undergraduate Student Teaching Fellow, 2022.9 - 2022.12*
 
-**GitHub Repository**
+GitHub Repository
 
 - [CSC4005_2022Fall_Demo](https://github.com/bokesyo/CSC4005_2022Fall_Demo)
 
-**Tutorial Slides**
+Tutorial Slides
 
 - [Tutorial 1: Virtual Machine Environment & Compiler](/assets/teaching/CSC4005/CSC4005_Tutorial1.pdf)
 
@@ -23,7 +23,7 @@ nav_order: 2
 
 - [Tutorial 5: GPU Architecture and CUDA](/assets/teaching/CSC4005/CSC4005_Tutorial5_v3.pdf)
 
-**Documentation**
+Documentation
 
 - [Project 1 Template](/assets/teaching/CSC4005/project1.pdf)
 

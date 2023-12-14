@@ -15,8 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an undergrad student at CUHK(Shenzhen), this is my 5th year here. I spent some extra time exploring some intriguing things like neuroscience and language models. My passion lies in understanding large language models, their reasoning capabilities, and the ties between learning in neural networks and biological brain. Additionally, I feel it cool to investigate Chinese dialects. I am honored to serve as a research assistant at THUNLP@THU and ICBI@SIAT. Upon graduation, I intend to pursue master degree, and then do some large scale cooperative research in industry.
-
+I am an undergrad student at CUHK(Shenzhen), this is my 5th year here. I spent some extra time exploring some intriguing things like neuroscience and language models. My passion lies in understanding large language models, their reasoning capabilities, and the ties between learning in neural networks and biological brain. Additionally, I feel it cool to investigate Chinese dialects. Upon graduation, I intend to pursue master degree, and then do some large scale cooperative research in significant scientific problems in industry, and use the results to build more capable machine intelligence. 
 
 ## recent work
 
@@ -45,15 +44,13 @@ At [THUNLP@THU](https://nlp.csai.tsinghua.edu.cn/), my pursuit centers on enhanc
 I architected a suite of Swin Transformer-based wind power forecast models. These models, powered solely by GFS satellite data, rival the performance of MoE models that harness 6 signal sources.
 
 
-## my research interest
+## Research interest
 
 In my Cognitive Psychology course at CUHK(SZ) — for which I received a grade of C+ — I was first introduced to the concept of *perception*. It's a fascinating property found in myriad entities. For instance, after pretraining, a Vision Transformer can "perceive" a *cat* within its embeddings. The property also exists in many creatures (insects, cats, dogs, human).
 
 I frequently muse about the essence of *human consciousness*—potentially defined as the brain's perception of its existence. It's a property absent in many entities. Take a bottle, for instance. Can it perceive its existence? This form of consciousness varies among beings—comparable in mammals, yet distinct in insects. I'm curious: if we were to replicate such a brain structure using VISOR and extract circuits using Deep Learning, and then program these networks to process signals, what could be the outcome?
 
 On a parallel note, imagine using a large language model paired with vision or environmental encoders and external devices. If this model had an extensive context capacity (like 1,000,000+ tokens) to retain daily information, and if trained to embed these memories into its parameters, what could be the possibilities? And, the objective function, should be somewhat like `uncertainty`, because neurons prefer a predictable stimulus, rather than a random stimulus.
-
-And recently I came across an explanation for *conciousness* in cerebral cortex. The cortex, could be represented by multiple neuron cliques, each clique could encode a type of unique feeling, and these cliques could be varying, that means, during learning, the cliques and the number of cliques could change. When multiple cliques activates simutanuously, it could produce different combinations of feelings, that becomes the conciousness. Just like the hidden states of a large language model, usually `4096` dimensional, could represent the overall semantic for a sentence or a passage. But now the problem is, how do we `perceive` our own existence? That could be a problem... But the `perception of our own existence` could also be a type of feeling (semantic) composed by a combination of neuron cliques. So, that could provide a possible explanation of `conciousness` defined above. And the human awareness is nothing different from other mammals or insects. It is just because insects' brain is not complex enought to perceive their own existence. But the perception is the same. 
 
 I am eager to collaborate with peers to explore these intriguing questions.
 
