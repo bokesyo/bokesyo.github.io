@@ -24,8 +24,19 @@ nav_order: 4
 </figure>
 
 <figure>
+  <img width="60%" max-width="600px" src="/assets/design/fcnd-1-real.jpg"/>
+  <figcaption>第1届快速眼动诗歌奖获奖证书 with 龙虾长者 (2020)</figcaption>
+</figure>
+
+
+<figure>
   <img width="60%" max-width="600px" src="/assets/design/xj.jpeg"/>
   <figcaption>作业 (2020)</figcaption>
+</figure>
+
+<figure>
+  <img width="60%" max-width="600px" src="/assets/design/yifan.jpeg"/>
+  <figcaption>翻面游戏project with 逸凡 (2021)</figcaption>
 </figure>
 
 <figure>
@@ -65,7 +76,17 @@ nav_order: 4
 </figure>
 
 <figure>
+  <img width="60%" max-width="600px" src="/assets/design/swb-1.jpeg"/>
+  <figcaption>涤纶分享会 (2020)</figcaption>
+</figure>
+
+
+<figure>
   <img width="60%" max-width="600px" src="/assets/design/regression.jpeg"/>
   <figcaption>回归 (2021)</figcaption>
 </figure>
 
+<figure>
+  <img width="60%" max-width="600px" src="/assets/design/uac-csyj.jpeg"/>
+  <figcaption>春山雅聚 (2020)</figcaption>
+</figure>
