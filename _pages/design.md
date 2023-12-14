@@ -28,6 +28,13 @@ nav_order: 4
   <figcaption>第1届快速眼动诗歌奖获奖证书 with 龙虾长者 (2020)</figcaption>
 </figure>
 
+
+<figure>
+  <img width="60%" max-width="600px" src="/assets/design/fcnd-1-real.jpeg"/>
+  <figcaption>第1届快速眼动诗歌奖获奖证书 with 龙虾长者 (2020)</figcaption>
+</figure>
+
+
 <figure>
   <img width="60%" max-width="600px" src="/assets/design/fcnd-4.jpg"/>
   <figcaption>第4届快速眼动诗歌奖获奖证书 with 痰盂林 (2021)</figcaption>
@@ -47,11 +54,11 @@ nav_order: 4
   <img width="60%" max-width="600px" src="/assets/design/shutopia-201902.jpeg"/>
   <figcaption>Shutopia 主题月II (2019)</figcaption>
 </figure>
-
+<!-- 
 <figure>
   <img width="60%" max-width="600px" src="/assets/design/swb-2.jpeg"/>
   <figcaption>涤纶分享会 (2020)</figcaption>
-</figure>
+</figure> -->
 
 <figure>
   <img width="60%" max-width="600px" src="/assets/design/swb-1.jpeg"/>
@@ -59,22 +66,17 @@ nav_order: 4
 </figure>
 
 
-<figure>
+<!-- <figure>
   <img width="60%" max-width="600px" src="/assets/design/yifan.jpg"/>
   <figcaption>翻面游戏project with 逸凡 (2021)</figcaption>
-</figure>
+</figure> -->
 
 
-<figure>
-  <img width="60%" max-width="600px" src="/assets/design/fcnd-1-real.jpeg"/>
-  <figcaption>第1届快速眼动诗歌奖获奖证书 with 龙虾长者 (2020)</figcaption>
-</figure>
 
-
-<figure>
+<!-- <figure>
   <img width="60%" max-width="600px" src="/assets/design/dylan-2020.jpeg"/>
   <figcaption>涤纶招新 with 龙虾长者 (2020)</figcaption>
-</figure>
+</figure> -->
 
 
 <figure>
