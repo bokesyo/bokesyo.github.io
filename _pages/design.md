@@ -24,7 +24,7 @@ nav_order: 4
 </figure>
 
 <figure>
-  <img width="60%" max-width="600px" src="/assets/design/fcnd-1-real.jpg"/>
+  <img width="60%" max-width="600px" src="/assets/design/fcnd-1-real.jpeg"/>
   <figcaption>第1届快速眼动诗歌奖获奖证书 with 龙虾长者 (2020)</figcaption>
 </figure>
 
@@ -35,7 +35,7 @@ nav_order: 4
 </figure>
 
 <figure>
-  <img width="60%" max-width="600px" src="/assets/design/yifan.jpeg"/>
+  <img width="60%" max-width="600px" src="/assets/design/yifan.jpg"/>
   <figcaption>翻面游戏project with 逸凡 (2021)</figcaption>
 </figure>
 
