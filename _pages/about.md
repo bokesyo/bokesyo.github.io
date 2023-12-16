@@ -19,25 +19,27 @@ I am a 5th-year undergrad @ CUHKSZ. My passion is understanding the ties between
 
 ## recent work
 
-At [ICBI@SIAT BCBDI](http://bcbdi.siat.ac.cn/), I'm immersed in the realm of brain reconstruction. Based on VISOR2 fast imaging technology developed by ICBI, we can rapidly obtain images of whole mouse / macaque / human brains.
+At [ICBI@SIAT BCBDI](https://icbi.siat.ac.cn/), I am developing brain reconstruction infrasturcture. Based on VISOR2 fast imaging technology developed by ICBI, we can rapidly get whole mouse / macaque brain microscopic images.
 
-- Pretrained foundation models.
+- I pretrained foundation models with Masked Autoencoders.
   
-- Aligned pretrained model for trustfully stitching task.
+- I aligned pretrained model for trustful brain reconstruction task.
 
-- The ultimate aim is to extract whole brain high-resolution circuits.
+- I proposed benchmarks to evaluate brain reconstruction performance.
 
-
-At [THUNLP@THU](https://nlp.csai.tsinghua.edu.cn/), my pursuit centers on enhancing the mathematical reasoning capability of large language models.
-
-- Prior to this, I contributed to the creation of BMQA (Big Model for Question Answering, June, 2022) & [UltraLM](https://github.com/thunlp/UltraChat).
-
-- Also contributed to [BMTools](https://github.com/OpenBMB/BMTools) & [GPT-World](https://github.com/ShengdingHu/GPT-World), where LLMs are treated as intelligent agents.
+- The ultimate aim is to extract whole brain high-resolution circuits from microscopic images.
 
 
-## research vision
+At [THUNLP@THU](https://nlp.csai.tsinghua.edu.cn/), my pursuit centers on enhancing the mathematical reasoning capability of large language models through pretraining and data engineering.
 
-- Understanding large language models' training dynamics, and knowledge storage mechanism.
+- Prior to this, I contributed to BMQA project (Big Model for Question Answering, June, 2022) & [UltraLM](https://github.com/thunlp/UltraChat).
 
-- Understanding whether there is a matching between biological brain and large language models, by extracting circuits from brain imaging.
+- I also contributed to [BMTools](https://github.com/OpenBMB/BMTools) & [GPT-World](https://github.com/ShengdingHu/GPT-World), where LLMs are treated as intelligent agents.
+
+
+## research interest
+
+- Understanding large language models' training dynamics, and knowledge storage mechanism. (from language models)
+
+- Understanding whether there is a matching between biological brain and large language models, by extracting circuits from brain imaging. (from brain imaging & neuralengineering)
 
