@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Emboided multimodal large language models with long-context
+title:  Probe conciousness with multimodal long-context large language models
 date:   2023-12-15 16:40:16
 description: Imagine using a large language model paired with vision or environmental encoders and external devices.
 tags: thoughts
