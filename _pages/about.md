@@ -43,4 +43,3 @@ At [THUNLP@THU](https://nlp.csai.tsinghua.edu.cn/), my pursuit centers on enhanc
 
 - Understanding whether there is a matching between biological brain and large language models, by extracting circuits from brain imaging. (from brain imaging & neuralengineering)
 
-<img src='//clustrmaps.com/map_v2.png?cl=080808&w=80&t=tt&d=nqVApCufNN4kadhzLDAgbhn4z2vZ1YJIP8ok9pTuO8I&co=ffffff&ct=808080'/>
