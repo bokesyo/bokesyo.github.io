@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Probe conciousness with multimodal long-context large language models
+title:  Probing Conciousness with Multimodal Long-Context Large Language Models
 date:   2023-12-15 16:40:16
 description: Imagine using a large language model paired with vision or environmental encoders and external devices.
 tags: thoughts

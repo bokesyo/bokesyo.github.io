@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  An explanation for conciousness
+title:  An Explanation for Conciousness
 date:   2023-11-01 16:40:16
 description: I proposed an explanation for conciousness in cerebral cortex, building a link between language models and human brains.
 tags: thoughts
