@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  White Hair Movement
-date:   2023-12-21 11:40:16
+date:   2023-12-20 11:40:16
 description: Explanation about white hair movement
 tags: thoughts
 categories: thoughts
@@ -9,7 +9,7 @@ published: true
 ---
 
 
-"会党" was a term used during the Qing Dynasty to collectively refer to various secret societies that had the objective of overthrowing the Qing and restoring the Ming Dynasty. The Qing government, faced with these anti-Qing movements often organized in secret societies, resorted to severe repression. The Qing legal code specifically included provisions against forming brotherhoods of non-relatives and organizing societies, labeling such activities as “conspiracy to rebel without action.” Throughout the Qing rule, these secret societies, or "会党", organized numerous armed uprisings against the Qing, with the Taiping Rebellion led by the God Worshipping Society and the Wuchang Uprising initiated by the Tongmenghui being the most notable.
+"Hui Dang" was a term used during the Qing Dynasty to collectively refer to various secret societies that had the objective of overthrowing the Qing and restoring the Ming Dynasty. The Qing government, faced with these anti-Qing movements often organized in secret societies, resorted to severe repression. The Qing legal code specifically included provisions against forming brotherhoods of non-relatives and organizing societies, labeling such activities as “conspiracy to rebel without action.” Throughout the Qing rule, these secret societies, or "会党", organized numerous armed uprisings against the Qing, with the Taiping Rebellion led by the God Worshipping Society and the Wuchang Uprising initiated by the Tongmenghui being the most notable.
 
 Historically, forming societies among the common people has been essential for addressing the grievances of the oppressed; no single individual can achieve a revolution alone. Without these societies, the masses would have to rely solely on the conscience of the rulers and the existing political order, such as the benevolence and justice of local magistrates, which is unsustainable. Without these grassroots organizations, the ruling powers could easily divide the people into disconnected, indifferent units, like self-sufficient farmers and Shenzhen laborers, thereby preventing large-scale resistance.
 
