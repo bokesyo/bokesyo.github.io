@@ -53,11 +53,11 @@ Between the 1950s and 1960s, the new socialist system provided an excellent envi
 This lack of civil association has greatly influenced the post-95 and post-00 generations. Competition winners move further ahead in resource acquisition, embodying extreme individualism. Losers hover on the edge of unemployment. Relationships have become competitive, with little desire to build mutually beneficial, long-term communities, focusing instead on personal advancement. This profoundly affects young people's worldviews, engaging in futile competition to rank higher among peers in an adverse employment environment. Additionally, the absence of nurturing unions means even successful competitors lack protection once they lose their competitive edge, leading to phenomena like mass layoffs of programmers at the age of 35.
 
 
-[^1]: ["Interviews with Some Veteran Workers of State-Owned Enterprises in Henan," China Labour Bulletin](https://clb[dot]org[dot]hk/zh-hans/content/%E6%B2%B3%E5%8D%97%E9%83%A8%E5%88%86%E5%9B%BD%E4%BC%81%E8%80%81%E5%B7%A5%E4%BA%BA%E8%AE%BF%E8%B0%88%E5%BD%95)
+[^1]: ["Interviews with Some Veteran Workers of State-Owned Enterprises in Henan," China Labour Bulletin](https://clb.dot.org.dot.hk/zh-hans/content/%E6%B2%B3%E5%8D%97%E9%83%A8%E5%88%86%E5%9B%BD%E4%BC%81%E8%80%81%E5%B7%A5%E4%BA%BA%E8%AE%BF%E8%B0%88%E5%BD%95)
 
-[^2]: ["Amy Chang Chien, Chang Che, John Liu, Meng Jianguo. 'Public Grievances and Resistance Under 'Zero-COVID': Continuous Riots and Protests in China'"](https://cn[dot]ny[removethis]times[dot]com/china/20221125/china-unrest-covid-lockdowns/)
+[^2]: ["Amy Chang Chien, Chang Che, John Liu, Meng Jianguo. 'Public Grievances and Resistance Under 'Zero-COVID': Continuous Riots and Protests in China'"](https://cn.dot.ny.remove.times.dot.com/china/20221125/china-unrest-covid-lockdowns/)
 
-[^3]: ["China's Youth Unemployment Rate: How High Is It? Expert: 46.5%"](https://www[dot]r[removethis]fa[dot]org/mandarin/yataibaodao/jingmao/sc-07202023123812.html)
+[^3]: ["China's Youth Unemployment Rate: How High Is It? Expert: 46.5%"](https://www.dot.rfa.dot.org/mandarin/yataibaodao/jingmao/sc-07202023123812.html)
 
-[^4]: [Socialist Political Economy Writing Group. "Socialist Political Economy," Page 87](https://www[dot]bann[removethis]edthought[dot]net/China/MaoEra/PoliticalEconomy/PoliticalEconomyOfSocialism-Shanghai-1976-9-Chinese-OCR-sm.pdf)
+[^4]: [Socialist Political Economy Writing Group. "Socialist Political Economy," Page 87](https://www.dot.banned.remove.thought.dot.net/China/MaoEra/PoliticalEconomy/PoliticalEconomyOfSocialism-Shanghai-1976-9-Chinese-OCR-sm.pdf)
 
