@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  White Hair Movement
-date:   2023-12-21 16:40:16
+date:   2023-12-21 11:40:16
 description: Explanation about white hair movement
 tags: thoughts
 categories: thoughts
