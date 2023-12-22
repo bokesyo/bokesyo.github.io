@@ -4,10 +4,10 @@ title: about
 permalink: /
 subtitle: <a href='https://www.cuhk.edu.cn/en/about-us'>The Chinese University of Hong Kong, Shenzhen</a>
 
-profile:
-  align: left
-  image: my_pic.jpg
-  image_circular: false # crops the image to make it circular
+# profile:
+#   align: left
+#   image: my_pic.jpg
+#   image_circular: false # crops the image to make it circular
 
 # news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
