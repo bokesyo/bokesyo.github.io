@@ -9,7 +9,7 @@ nav_order: 2
 
 ### CSC4005 Parallel Programming, CUHK(Shenzhen)
 
-*Undergraduate Student Teaching Fellow, 2022.9 - 2022.12*
+*Undergraduate Student Teaching Fellow, 2022.9 - 2022.12*, Course Instructor: [Prof. Yeh-Ching Chung](http://www.cs.nthu.edu.tw/~ychung/)
 
 GitHub Repository
 

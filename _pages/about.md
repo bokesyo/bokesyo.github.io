@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.cuhk.edu.cn/en/about-us'>The Chinese University of Hong Kong, Shenzhen</a>
+subtitle: <a href='https://www.cuhk.edu.cn/en/'>The Chinese University of Hong Kong, Shenzhen</a>
 
 # profile:
 #   align: left
@@ -15,7 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a 5th-year undergrad @ CUHKSZ. My passion is understanding the ties between learning in neural networks and in biological brain. I love industrial research in that. Additionally, I feel it cool to investigate Chinese dialects. 
+I am a 5th-year undergrad @ CUHKSZ. My passion is understanding the ties between *learning* in deep neural networks and in biological brain & conciousness. I love industrial research in that. Additionally, I feel it cool to investigate Chinese dialects and its evolution. 
 
 ## recent work
 
@@ -32,7 +32,7 @@ At [ICBI@SIAT BCBDI](https://icbi.siat.ac.cn/), I am developing brain reconstruc
 
 At [THUNLP@THU](https://nlp.csai.tsinghua.edu.cn/), my pursuit centers on enhancing the mathematical reasoning capability of large language models through pretraining and data engineering.
 
-- Prior to this, I contributed to BMQA project (Big Model for Question Answering, June, 2022) & [UltraLM](https://github.com/thunlp/UltraChat).
+- Prior to this, I contributed to BMQA project (Big Model for Question Answering, June, 2022) & chat language model [UltraLM](https://github.com/thunlp/UltraChat).
 
 - I also contributed to [BMTools](https://github.com/OpenBMB/BMTools) & [GPT-World](https://github.com/ShengdingHu/GPT-World), where LLMs are treated as intelligent agents.
 
