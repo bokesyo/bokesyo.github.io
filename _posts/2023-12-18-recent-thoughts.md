@@ -19,5 +19,3 @@ published: true
 - Large language models, a kind of semantic understanding system, can they perceive their own existence?
 
 - I learned how to identify those thoughts that we have got used to, from a friend, during 1 year's time. He is genius in analytic philosophy. To think about conciousness and symbolization of people in society/institutions.
-
-- The patriarchy in Shenzhen is so severe. 

@@ -11,11 +11,11 @@ subtitle: <a href='https://www.cuhk.edu.cn/en/'>The Chinese University of Hong K
 
 # news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+# selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a 5th-year undergrad @ CUHKSZ. My passion is understanding the ties between *learning* in deep neural networks and in biological brain & conciousness. I love industrial research in that. Additionally, I feel it cool to investigate Chinese dialects and its evolution. 
+I am a 5th-year undergrad @ CUHKSZ. My passion is understanding the connection between *learning dynmaics* in deep neural networks and in biological brain && human conciousness. The detailed topics are: training dynmaics of DNN + knowledge storage in large language models; aligning language models for self-perception with robotics; brain imaging & connectomics; neural-engineering. I love industrial research. Additionally, I feel it cool to investigate Chinese dialects and its evolution. 
 
 ## recent work
 
@@ -35,11 +35,4 @@ At [THUNLP@THU](https://nlp.csai.tsinghua.edu.cn/), my pursuit centers on enhanc
 - Prior to this, I contributed to BMQA project (Big Model for Question Answering, June, 2022) & chat language model [UltraLM](https://github.com/thunlp/UltraChat).
 
 - I also contributed to [BMTools](https://github.com/OpenBMB/BMTools) & [GPT-World](https://github.com/ShengdingHu/GPT-World), where LLMs are treated as intelligent agents.
-
-
-## research interest
-
-- Understanding large language models' training dynamics, and knowledge storage mechanism. (from language models)
-
-- Understanding whether there is a matching between biological brain and large language models, by extracting circuits from brain imaging. (from brain imaging & neuralengineering)
 
