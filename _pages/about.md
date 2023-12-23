@@ -15,7 +15,7 @@ latest_posts: true  # includes a list of the newest posts
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a 5th-year undergrad @ CUHKSZ. My passion is understanding the connection between *learning dynmaics* in deep neural networks and in biological brain && human conciousness. The detailed topics are: training dynmaics of DNN + knowledge storage in large language models; aligning language models for self-perception with robotics; brain imaging & connectomics; neural-engineering. I love industrial research. Additionally, I feel it cool to investigate Chinese dialects and its evolution. 
+I am a 5th-year undergrad @ CUHKSZ. My passion is understanding the connection between *learning* in deep neural networks and in biological brain && human conciousness. The detailed topics are: training dynmaics & knowledge storage of DNN; aligning multimodal language models for self-perception with robotics; brain imaging & connectomics. I love industrial research. Additionally, I feel it cool to investigate Chinese dialects and its evolution. 
 
 ## recent work
 
